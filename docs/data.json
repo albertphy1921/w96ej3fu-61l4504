@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T22:15:46+08:00",
+  "generated_at": "2026-09-29T01:42:59+08:00",
   "latest_trading_day": "2026-09-24",
   "prev_trading_day": "2026-09-23",
   "stocks": [
@@ -45,16 +45,6 @@
         "法說": [],
         "營收": [
           {
-            "title": "7月營收大增 台塑四寶看好Q3獲利 - 自由時報",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WRlAxVG15emliV3RORWMxZHlaS3VaWGVaVE9UdVo0REJjazAzQWVYVEQ3QkF4ZnpDQWdEUEd4NXRJWmFRUTRSSS1tT3hRQW85QXFRaGh6X0I?oc=5",
-            "date": "Thu, 17 Sep 2026 03:54:25 GMT"
-          },
-          {
-            "title": "季底作帳資金回流記憶體與台塑集團，營收能否延續強勢？-思齊波段操盤手 - CMoney投資網誌",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5POFVWUk9RZTczOFZsN1BwanBIbWVVNFNNMU5QZ205STFOU0M1NGNkcjEtbnRyZVF5MC1PdXVlVDVkbTVVTi10Vlh3a2loSElQc1hKamp1Mk9kOW44UDJyLXdnWFducEh1UmVidmJyNFo0U09wU08wUUpubG5QRlU?oc=5",
-            "date": "Mon, 21 Sep 2026 11:03:29 GMT"
-          },
-          {
             "title": "台塑四寶8月營收兩升兩降 南亞續創50個月新高 - 自由財經",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PSTBjS0RhT09ZcVl0SmUyRDBGT1NRanJ5NzQ2S2N2cXZsNGJoajFBRkEwUkJsU0l3S29RWjJiQVZ1d19fVENwTm9KZHJzaEF4ZE9BWFQyQmkxYmxzTWZR0gFkQVVfeXFMT2dPeU05RUo2OVB1LVBpS2k1OThZVEsyVEpzejlQUTVIZkdXd0dxZC1YOFVkanJOWHZDMm9XbjVVVElVcDM4ajhDUUVDVm9HdHdUdFdFdnVaMzBza0FLQ2xSbzV0Wg?oc=5",
             "date": "Tue, 08 Sep 2026 07:00:00 GMT"
@@ -63,6 +53,11 @@
             "title": "1303 南亞 - 油價狂飆！台塑化8月營收年增5成南亞創50個月新高- 股市爆料同學會 - CMoney",
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xQUo0RTVqUlFDdy1RdjB3d1FxTm1aVE9rMHhvVzFRczM3UERzUDhfU0c4VVVVMnBscm82YUp5R25abl9mOVVTWllNc1JOUUNvYzN2d2JudnY?oc=5",
             "date": "Tue, 08 Sep 2026 09:59:41 GMT"
+          },
+          {
+            "title": "台塑四寶7月營收年月雙增！不選台塑台化法人「4原因」都挑他：年賺1.2個股本- 上市櫃 - 旺得富理財網",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oVWpVVGY3YTNRWXdDRjFFMzY4TmEyWGk2RzYxTHJxN2JCa0xjYjdRRDlGam1jLTNib0x1NFhDUDJzTDdGLVZEWFY4NTN1WUlPYUdicHV0N2xFSURyekxVZG9DSzY3aWFjMkE?oc=5",
+            "date": "Wed, 12 Aug 2026 07:00:00 GMT"
           },
           {
             "title": "台塑四寶：3月營收及Q2審慎樂觀 - 自由時報",
@@ -94,13 +89,7 @@
         "D1": -2698
       },
       "news": {
-        "法說": [
-          {
-            "title": "(1326) 台化法說會 2026/04、台化財報、台化展望、台化財報投資亮點｜理柴知道:法說最速報! - 方格子 - vocus",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMZUlIOHZPOG1LYnlzQUxqT0lLMFN3clBibE1HWVBSdHNDRDBBeWRGV1A1UlJ5WDVKQ2hvUXFhR25wckhnS2ZocXc0Qy1TQkN2S3dKVHJQWWpwUExDZlHSAWNBVV95cUxOYXJsMVJPVTRkNFVNeFBNTk4yWnUwYkJiUlhaM2tLNzBZZkVWcEZJQ3ViOG1DVFhfUGtWUmpwT3hKQlNHLUVyTjBKaU5pX2ZwM0ltMExFZ2VWX2owU0NETUNRUHc?oc=5",
-            "date": "Fri, 24 Apr 2026 07:00:00 GMT"
-          }
-        ],
+        "法說": [],
         "營收": [
           {
             "title": "台化看9月營收優於8月 純苯加工利差走揚 SM增開產線、價量齊升 - UDN",
@@ -108,14 +97,14 @@
             "date": "Tue, 08 Sep 2026 07:00:00 GMT"
           },
           {
-            "title": "〈台塑四寶業績〉台化、台塑化6月營收年月雙增 南亞電子材料不受景氣影響年增31.8% - news.cnyes.com",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uR1pFNkh1Vi1rUWUwQzBuMXRyYmplN1BZeWc1VzdKN19fY3FJR2Nhb2ZqdUlmeTVibzZhRnV5LTE0MUUybDZoM3oyYU81Tzg?oc=5",
-            "date": "Thu, 09 Jul 2026 07:00:00 GMT"
-          },
-          {
             "title": "台化3月營收創3年多來新高 股價再度大漲創波段高 - UDN",
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqS09vRWExT0Q0c3YtNmhjTEdwcGdVbDNpMGJyS3lIZ2t5Skx6ZW5EdzlDVjg4bEhqUTVZd0ZpeTgybVRVeF9yYkJZWTFLUDct0gFWQVVfeXFMUHhxdUhxalpudlBlaXE0cnk0VXdaR2JrNnQ2OFJaMzFDbjlaY29rb1o0UDNxR2p2WlJkSUhCQzR4NnI3V25qSS1VbVlfZ2JVaHRoMUdKSlE?oc=5",
             "date": "Tue, 14 Apr 2026 07:00:00 GMT"
+          },
+          {
+            "title": "〈台塑四寶業績〉台化、台塑化6月營收年月雙增 南亞電子材料不受景氣影響年增31.8% - news.cnyes.com",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uR1pFNkh1Vi1rUWUwQzBuMXRyYmplN1BZeWc1VzdKN19fY3FJR2Nhb2ZqdUlmeTVibzZhRnV5LTE0MUUybDZoM3oyYU81Tzg?oc=5",
+            "date": "Thu, 09 Jul 2026 07:00:00 GMT"
           },
           {
             "title": "台化看6月營收回升 產品表現兩樣情 PTA、PX 向好 塑料挑戰較大 - 經濟日報",
@@ -146,14 +135,14 @@
             "title": "【Hot台股】南亞逆勢翻紅漲逾3% 網喊「不是要中秋變盤？」分析師：法說會前資金卡位 - Yahoo股市",
             "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxNNEFOa2NHNW1zRjVhVUNucWtUS3J5WnhycnpaWmRFejNyYThGOVAtU0N2aktRczNPZzV3a0ZvQV8wNDVqLTRCUld6Mks2NFlxODI0ajZTcW1sN3NGUkZhX01ReWU3UWlJRjFSUG15cHVqUlVoZEZpQ0xWcXFiazllQ18ydGlicGV0ekVPanZSVUh4QmE5R2s5Rm5xak54SWt3bzQxQjBycW5LaXY5NjZjOUVnYzNUd2YzR3lEeDBYTzFzMElCcUxSQS1aT3BZRWZDUTFOQWFVYmVZTk9aWFpBVHlOa19RcHZCcEJQSnl4Qi14TkgxUFhRTnF1Nk0zaTA2aHdOWkFhMEF2bFk3U3htZmhHZ0NBcDZfbHFkZ1VwUGtlbzNYMENydlZSWDdQUmZHejN4VjRXWlZJZDhleC1VOHJDWnV0Yi1SMWFLd0o4bGFGTEtWTU1ZTG0xcVdkNlZ4blRqdkhkMFEyeEluLU9fVkJfY0RuZUstLUlfQXF4VzduNGVmSGJUZUFGZVZLZFp4bV9wSEVuV3NWZEoxY3B2YjNIUlFueUZrUGVTRG1sLVN3QUJ5MXo4N3R5Rk5ZNHFBV010cmo2Q2xhd1l2S0VoZDNhMXNOWWo0LXVpdHd1TlBOTW9GVGg3Y28wUmxyd3BNN3RITDM2cEVLR2xsZ2RrOG80a25zbXBvUHlQNnhJNmZ5Zw?oc=5",
             "date": "Thu, 24 Sep 2026 03:46:19 GMT"
-          },
-          {
-            "title": "1303 南亞 - 南亞8/21閉門法說會：下半年營運更好切入AI鏈收穫漸放大- 股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QdkNSOFpIWFZsZXBtdmtmS3JQdXRoTUk0N2w3QVdTVlI0bmEyTHBNbklnZEpqdFR4dGVnWGxFLThIZnZGeWkyX3RmLUNTXzVhUXVBYV9qaEI?oc=5",
-            "date": "Fri, 21 Aug 2026 07:00:00 GMT"
           }
         ],
         "營收": [
+          {
+            "title": "1303 南亞 - 南亞營收增，AI帶動成長- 股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RMWRLV2E0aHI0TFVNTkRPOWtQT1A3c2xoZE1vdDRBeGJESk1yczVYanJQTkh4eU9ZZXBsSWlKWGI1U0lWX1ZlcE4wa3pYejM3NGcwT2VCdDA?oc=5",
+            "date": "Sun, 27 Sep 2026 08:45:37 GMT"
+          },
           {
             "title": "產能滿載！南亞8月營收創50個月新高 公司：9月更高 - Yahoo股市",
             "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNWlRYNV81MUhmWG92WXlYZXk0VjA0RXlOSUIzMnY2ajN4T1lHempVanZGZVZZczZrMzlnWTNEUmlZaEgwNm5NeWRpdDNFNmpuTEhQbTBhb2VoUFhGUzlodGtjVWhLS0szR3FaMDRYWTRwdGZPYlhlN2JvTlQwSlctYktQc1laZVB1NTQ2R29hM2NsMFZFR192akVFUVY5VGd0T3pxTnU5WUlmMXh5Z2dFa0NScWFVc0x1Q0RMMVd1REhGYUtqYUNEeTNsdEkyNXZhclVfdWJrU094bVZRWWpQOE02UVpBSFI3ZUZUaWxGN1RzSDhjRXM0TjRjQjlTMzBUU0FWYXlJQmppbHVMMWZRa2otLVVjYjBhaGpFbnppeHh5QmlHeTRueUY0SnBucWFERDdIR0dienVQMnlneFIyU3VxLWdTRzRVYVZrRUlVSFV1S28zWkQyQTc3UjdFZw?oc=5",
