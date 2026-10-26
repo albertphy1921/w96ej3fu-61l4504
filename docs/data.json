@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T22:29:54+08:00",
+  "generated_at": "2026-10-27T00:11:45+08:00",
   "latest_trading_day": "2026-10-22",
   "prev_trading_day": "2026-10-21",
   "stocks": [
@@ -18,6 +18,16 @@
       "news": {
         "法說": [],
         "營收": [
+          {
+            "title": "9月營收衝28個月高！中鋼持3大利多齊發獲三大法人力挺48億元奪冠「這檔」攜Verda搶全球AI商機受矚 - FTNN 新聞網",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NODItek5jYjRWYk96R2RrMERqcXF6SldETm1xVWNBNmpZR281dm9wZG9LZU9mR2tRSVpfN0x4LXFJaVNSaFVkUHBpOA?oc=5",
+            "date": "Mon, 26 Oct 2026 14:00:00 GMT"
+          },
+          {
+            "title": "2002 中鋼- 中鋼115年9月營收310.01億、年增27.13% - 股市爆料同學會 - CMoney",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yUGM3ckZLYWZHcnJ4Q1RTb09CSWUyWldQMmxnbm9hT0k5V2pGR0hXQ2J6cEMwTTRjdFVyOEx5NHFPZU9kTEEzT2Vpd2FSaVVJbDNJZXE5ZzI?oc=5",
+            "date": "Sun, 11 Oct 2026 07:00:00 GMT"
+          },
           {
             "title": "中鋼「月來月旺」格局確立！8月營收279億元、年增近13% Q4關注鋼價漲幅＋接單量 - Yahoo股市",
             "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQekg5cWRqQkhxN2syNEtia1FTbXo2YnFJWmh2ZVlidWlOOUhuSVlURFlleGp5bW9seVdfa1NEVkxYVlVEZUxXalRfN05JZFRaYUpObXhTak85VTJDYWlxalJZZHlkdThXblItR091aDB2eEZrVFJ6RktUdlVZOW04WDRaSDhQdnREelNSdElsdGRTVjRwa2hySWxGbjhNamhwX2MzSmlRUHE2emNULU5zcEluX2JacWtvLXpMMzhTUFVYVHByV2ZJOGhIQnpyUXpxaXVqWmo1TnFLdFlSZXAwZi0xYTFaU2J1ZDc0RjlWaThSSjhfSzRNLTM1WWRLUEVQSlk0SU9VVDFtcXdDMHZ3UTJJZkhqRzByMzdxUDBuSlhVaTNhM2hhRHU0alg0V0hQdXBUd3dHMWJEUDdlUm5GUA?oc=5",
@@ -74,16 +84,10 @@
         "D1": 5311
       },
       "news": {
-        "法說": [
-          {
-            "title": "(1326) 台化法說會 2026/04、台化財報、台化展望、台化財報投資亮點｜理柴知道:法說最速報! - 方格子 - vocus",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMZUlIOHZPOG1LYnlzQUxqT0lLMFN3clBibE1HWVBSdHNDRDBBeWRGV1A1UlJ5WDVKQ2hvUXFhR25wckhnS2ZocXc0Qy1TQkN2S3dKVHJQWWpwUExDZlHSAWNBVV95cUxOYXJsMVJPVTRkNFVNeFBNTk4yWnUwYkJiUlhaM2tLNzBZZkVWcEZJQ3ViOG1DVFhfUGtWUmpwT3hKQlNHLUVyTjBKaU5pX2ZwM0ltMExFZ2VWX2owU0NETUNRUHc?oc=5",
-            "date": "Fri, 24 Apr 2026 07:00:00 GMT"
-          }
-        ],
+        "法說": [],
         "營收": [
           {
-            "title": "台化看9月營收優於8月 純苯加工利差走揚 SM增開產線、價量齊升 - UDN",
+            "title": "台化看9月營收優於8月 純苯加工利差走揚 SM增開產線、價量齊升 - udn",
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yYzZua0p1T1VkdjNEQmJSYjR0amwydENuejJnZGhxS3pGVEs1TVdLcFRET3hLb2E0QjlkazR4YXpzWEtWbE1hcnk5bGt5bTN20gFWQVVfeXFMUC1nUkYxSWcxVUsxcF9EcWF4dk8yakVUYjdJbUM2T0czekpVT3FaRTg5dGtCU2pnM3RRR2Z6bmRNRWgycFJmOENOVTRDR0FqY0FjS3VJYWc?oc=5",
             "date": "Tue, 08 Sep 2026 07:00:00 GMT"
           },
@@ -122,22 +126,28 @@
       },
       "news": {
         "法說": [],
-        "營收": [],
-        "重大訊息": [
+        "營收": [
           {
-            "title": "驚爆驗證不合格！南亞重挫逾6％ 公司重訊闢謠了 - Yahoo股市",
-            "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQdFlMTnBLMHFkNjJRMGY3NUxGNGdvWDdqMXh4VHJ3RFFxOXdIRVU0aTNEQUdlNUN5SDg4QzBPSFN0a0xrMmNWUXMxWEJaZ2ExN1BneF9SbkZVOW1oRG02bHZUQjZZUzl2RERMSHo4SEVjOVdTeExrOFBpc1NxTTB3aVpFSUhaemY0cWszZGFlSGFHQUtWZzFRVFlyX0dwZlBiOWpTcW9SUGhobEgtdk5JeGhwWk9PNjFqSnN2OE1CZEtlUFlkNmxXMHZSRnFWUmFhNkFCRlNxdndpb0dJelQ1X1B1elJXR00zVWdiUi15c1FjdTlxd0FuQUtLWXRkbkZSZE5QSDBZXzRQbkhnbVp0eEoyQTBkOVNWMzBBSEFvaEhlakhYRHQyWm1tcFJaMmx2eVhEbjNzQlpqNDFKdkZDTVNNYw?oc=5",
-            "date": "Thu, 22 Oct 2026 07:33:00 GMT"
+            "title": "營收創54月新高！AI帶動高階材料升級 南亞明年EPS上看21.36元 - Yahoo新聞",
+            "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNb1dvMkMtNjdNX3FacDVlQnZEb21RZnNpTWVUbmZaSkZKb0Z0amU1SE5IeWdhRFotMVRwTFpYd3ctNnNscXRYWTc2YXY4SFF3MlJ1RGlsVVlOVFd3N2JUSmV2b3BZQmU0YUFpR2JlVElIX1dyQVkzQW5uUWFBRW1wbDVHYzUxVTVJVnA1NWRoSlJicy1jZkJtRmo3bmdKOG0zN1Y5aWpSY1RubGd4MWZsRVNqdFkyNXR0VGgxdTJxVTl5VEM0RG1SSzRRbXdJUzVDNmdib3c4M0FQS2hIZDJBUGpWMEhZb3BiZTRMbGk1MG8zbnZVbzNpT3VBcVgyLVBSc1NpM0ZjOXlFZVhtWGVXMnVjb2lMNFdlTzFxSTVtTTBRY0x2dEIwb2lVYnlON3RKRTYzaFp4M3VlSlF0LTF0eGFLOXBnSmlyUlZSV1J1WUhVbTZvalBPRm5PX21RZ2M3N0E?oc=5",
+            "date": "Sun, 25 Oct 2026 22:50:00 GMT"
           },
+          {
+            "title": "玻纖布缺貨漲價潮來了！南亞營收衝306億、富喬暴增79％ 法人喊明年EPS挑戰9.3元 - Yahoo股市",
+            "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQcW56VWdYeldQeGthc2hVSllCZ2lha1haZ3oweUVaSnhxMGdnZFFXUF9XcDFWWFAxTkZJR1dvOUdENTJiTG5qVnFpb1ZGaGlzMVNGbXV0OXhDbG9TdzFma0pKX1UxZUE5UjA1bFlCTFBodTY3bDJtS0xhSHQ2S0xEUkZWSXFxeWFwLUVTZUNrX1NHS2hfcXB0MFlaTzNnczZXZ0dmeDZnSlhmeWw0NWdJU3VzTHpITmx1ZEkzc19oZXJRRXY3YXlrWklVbTFmZVBLWGFDc3dpUEkyb25rMWQtN0dKZGNlVU9uazlnSFpLNFhrYmV1ZHNaNmU4WlBuZm1xSnFGOHptWGVuNG5aRVVTaXhKVE5XcTFKS1U2cGdady02bnJXUkRpYmpTYk1UUGU2WS04cFVnUTBFaXktMjQxU1kwbDY3ckl1aGRVTlBGZXBoS0hPaEJpREYyeEQ3REwzaXY4d0pQN1l5eXpvSnZQUTgwMlpQRDBaam01bXhmNUlRcG1EWkM2U1FtczZ6Ti1CNlBiMVpZN1dSMHY5aElBSUZZX1V0VE1KVGIxaGZRbWJseHlWdGdOd2pJZjM1dw?oc=5",
+            "date": "Thu, 08 Oct 2026 07:00:00 GMT"
+          }
+        ],
+        "重大訊息": [
           {
             "title": "南亞重訊澄清高階銅箔基板順利推進 不合格傳言「非事實」 - Yahoo股市",
             "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxPcWVCQmk3S3VMWndxd196QkQzU1k4ZWQtT1ctcXNzdzZ0N3JrS3h5QmExSDZ1bllCekM3U0tCWjFySkxneU5DRnZoa09VclRHeGZIRW5pU3c4dEhIYmtIVWlpY29zSy1iZlRkNFpGejRlOWJuWDlvM3F5eC1lbjRGY2VKTnppMUpUWl9meng2WkhST1pIV0FZR3JUbWhBUGpmVjhDdE9JUGE3cHp3T25YMFhIa2FmOEFXR05EdU9MOWM3ZkpvWGZ0cEZlLWs1ay1Qbkk1d0txaGZoWTA2emZaWEtPNHdSS1poOW1BMVRkWTl2NW1zTGJmSml4dldEM1h4NWlMS0tvcEdGekdvYm13WVRkNG9MUk5iT1FQeWY2QWlrVTZTOW5TMlU0QWVsVWV3Y1lyX2liS3FxS0tMel9zT0pSRnNtZ0M2aU4zY2dVa3hUS2VzS054dk1td05Bekl3UmNDZGhMNlkxMWlRWjlndmxYTm1ub3BabE1PeDdoRjBGS290SlhEN3B0NnZsR0xDRGV1TQ?oc=5",
             "date": "Thu, 22 Oct 2026 07:00:29 GMT"
           },
           {
-            "title": "1303 南亞 - 【南亞1303｜10/22重大訊息查核】 - 股市爆料同學會 - CMoney",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiMU5iNEJVQ2hNMFlUNXJXZXRkZklDQURhQ2NBZlBveHdGNThGTDNiS2lLdGFPMTJPU09EUm9pR3V1cllJeEdxc2N1QnV4R3EySS1LUEJ0WGk?oc=5",
-            "date": "Thu, 22 Oct 2026 11:54:31 GMT"
+            "title": "驚爆驗證不合格！南亞重挫逾6％ 公司重訊闢謠了 - Yahoo股市",
+            "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQdFlMTnBLMHFkNjJRMGY3NUxGNGdvWDdqMXh4VHJ3RFFxOXdIRVU0aTNEQUdlNUN5SDg4QzBPSFN0a0xrMmNWUXMxWEJaZ2ExN1BneF9SbkZVOW1oRG02bHZUQjZZUzl2RERMSHo4SEVjOVdTeExrOFBpc1NxTTB3aVpFSUhaemY0cWszZGFlSGFHQUtWZzFRVFlyX0dwZlBiOWpTcW9SUGhobEgtdk5JeGhwWk9PNjFqSnN2OE1CZEtlUFlkNmxXMHZSRnFWUmFhNkFCRlNxdndpb0dJelQ1X1B1elJXR00zVWdiUi15c1FjdTlxd0FuQUtLWXRkbkZSZE5QSDBZXzRQbkhnbVp0eEoyQTBkOVNWMzBBSEFvaEhlakhYRHQyWm1tcFJaMmx2eVhEbjNzQlpqNDFKdkZDTVNNYw?oc=5",
+            "date": "Thu, 22 Oct 2026 07:33:00 GMT"
           }
         ],
         "產能": [],
